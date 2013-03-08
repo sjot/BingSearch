@@ -8,9 +8,10 @@ BingSearch.Lib : Library to search using Bing API with new query url https://api
                  
                  For ex: https://api.datamarket.azure.com/Bing/Search/Web?Query=%27Xbox%27&$top=10
                  
-                 Here $top specifies the number of result ( 50 is the maximum limit set by Bing ).
+ Here $top specifies the number of result ( 50 is the maximum limit set by Bing ).
                  
-                 Need to pass the scecret key (Customer ID of Windows Azure marketplace) for the credential of you account.
+
+ Need to pass the scecret key (Customer ID of Windows Azure marketplace) for the credential of you account.
                  
                  
  BingSearchWeb : Result set shown on Aspx page
