@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BingSearchConsole", "BingSearch\BingSearchConsole.csproj", "{0A72D581-8458-45EB-AC20-36CDFA68A707}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BingSearch.Test", "BingSearch.Test\BingSearch.Test.csproj", "{3B035EE1-8C38-4DD0-92F0-31AA1095E3F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BingSearchWeb", "BingSearchWeb\BingSearchWeb.csproj", "{B0CD7757-6268-46AC-9D20-B2B8E6B6F90E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BingSearchLib", "BingSearch.Lib\BingSearchLib.csproj", "{69160DC4-9F9F-46EE-9018-2B6C984FD695}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A72D581-8458-45EB-AC20-36CDFA68A707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A72D581-8458-45EB-AC20-36CDFA68A707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A72D581-8458-45EB-AC20-36CDFA68A707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A72D581-8458-45EB-AC20-36CDFA68A707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B035EE1-8C38-4DD0-92F0-31AA1095E3F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B035EE1-8C38-4DD0-92F0-31AA1095E3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B035EE1-8C38-4DD0-92F0-31AA1095E3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B035EE1-8C38-4DD0-92F0-31AA1095E3F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0CD7757-6268-46AC-9D20-B2B8E6B6F90E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0CD7757-6268-46AC-9D20-B2B8E6B6F90E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0CD7757-6268-46AC-9D20-B2B8E6B6F90E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0CD7757-6268-46AC-9D20-B2B8E6B6F90E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69160DC4-9F9F-46EE-9018-2B6C984FD695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69160DC4-9F9F-46EE-9018-2B6C984FD695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69160DC4-9F9F-46EE-9018-2B6C984FD695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69160DC4-9F9F-46EE-9018-2B6C984FD695}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
