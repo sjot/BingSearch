@@ -16,7 +16,7 @@ BingSearch.Lib : Library to search using Bing API with new query url https://api
                  
  BingSearchWeb : Result set shown on Aspx page
  
- BingSearch : Result show in Console app.
+ BingSearch : Result show on Console.
  
  BingSearch.Test : Unit test cases for the application.
  
